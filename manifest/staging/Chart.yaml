@@ -3,5 +3,5 @@ name: httpbin-helm
 version: 1.0.0
 dependencies: # A list of the chart requirements (optional)
   - name: microservice
-    version: The version of the chart ("1.2.3")
+    version: 0.6.2
     repository: https://bwehrle.github.io/helm-microservice/
